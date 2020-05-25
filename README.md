@@ -1,5 +1,7 @@
 # Circle CI nodejs TCP server
 
+[![CircleCI](https://circleci.com/gh/messiasGeovani/CircleCI-nodejs_TCP_server.svg?style=svg)](https://circleci.com/gh/messiasGeovani/CircleCI-nodejs_TCP_server)
+
 > A simple tcp server with Circle CI integration
 
 ## Installation
