@@ -1,0 +1,12 @@
+{
+  "name": "circleCI_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

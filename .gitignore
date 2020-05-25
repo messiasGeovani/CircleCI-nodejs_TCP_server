@@ -1,0 +1,7 @@
+node_modules/
+.env
+.vscode/
+.theia/
+.tmp/
+yarn.lock
+yarn-error.log
