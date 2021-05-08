@@ -1,4 +1,4 @@
-// environment variables config
+// environment variables config.
 require('dotenv').config()
 
 // net tcp module import
